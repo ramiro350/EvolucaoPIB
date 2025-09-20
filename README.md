@@ -91,3 +91,8 @@ A aplicação consome dados da API oficial do IBGE:
     PIB Total: https://servicodados.ibge.gov.br/api/v3/agregados/6784/periodos/{ano-inicial}-{ano-final}/variaveis/9808?localidades=BR
 
     PIB Per Capita: https://servicodados.ibge.gov.br/api/v3/agregados/6784/periodos/{ano-inicial}-{ano-final}/variaveis/9812?localidades=BR
+
+🌐 Aplicação Online - Deploy na Vercel
+
+A aplicação está disponível online e pode ser acessada através do link:
+🔗 https://evolucao-69n2m9zl5-ramiros-projects-001af55f.vercel.app/
